@@ -1,0 +1,8 @@
+<%= link_to("links",:controller=>"links") %>
+<%= link_to("pokerpronto","/") %>
+<br>
+Today's hits: <%= @today_hits %><br>
+Total hits: <%= @total_hits %><br>
+<%= render_partial "histogram",:data=>@hit_counts %>
+
+<%= render_partial "hits" %>

@@ -1,0 +1,35 @@
+<html>
+<%= javascript_include_tag "prototype" %> 
+<body>
+<% @stat ||= nil -%>
+Stat!!!!!
+<br><br>
+<%= form_remote_tag(:update => "result", :url => { :action => :stat_result }, :html=>{:id=>"hand_form"} ) %> 
+<%= start_form_tag :action => 'stat' %> 
+<%= text_field 'hand', 'hole_string' %><br><br>
+<%= text_field 'hand', 'widow_string' %><br><br>
+<%= submit_tag "go" %> 
+<%= end_form_tag %>
+<div id="result"></div>
+<br><br>
+<% if @stat -%>
+<%= @stat %>
+<% end -%>
+
+<% # observe_field(:hand_hole_string, :frequency => 0.5, :update => :result, :url => { :action => :stat_result }) %> 
+
+
+<script type="text/javascript">
+var FieldController = {
+    change:function() {
+        //$("hihi").innerHTML="hihi";
+        $("hand_form").onsubmit();
+    }
+}
+$("hand_hole_string").onchange=FieldController.change
+$("hand_hole_string").onkeyup=FieldController.change
+$("hand_widow_string").onchange=FieldController.change
+$("hand_widow_string").onkeyup=FieldController.change
+</script>
+</body>
+</html>

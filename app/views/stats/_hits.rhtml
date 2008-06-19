@@ -1,0 +1,19 @@
+<% @hits ||= [] -%>
+<table border=1>
+    <% for hit in @hits %>
+    <tr>
+        <td NOWRAP>
+            <%= hit.created_on %>
+        </td>
+        <td>
+            <%= hit.url %>
+        </td>
+        <td>
+            <%= hit.remote_addr %>
+        </td>
+        <td NOWRAP>
+            <%= hit.referer %>
+        </td>
+    </tr>
+    <% end -%>
+</table>

@@ -1,0 +1,36 @@
+<h2>All Holdem Hole Odds - before the flop </h2>
+<p>
+The numbers below represent your standing for your hole cards before any more cards have been dealt.
+There are about 42 billion ways to choose a set of 5 widow cards and 2 opponent cards against
+your hand.
+</p>
+<div style="position:relative;padding:10px;">
+<table border=0 cellspacing="5" bgcolor=FFFFFF style="background-color:#FFFFFF;left:0px;width:800px;border:10px solid #22FF22" rules=rows>
+	<tr>
+			<td></td>
+			<td align=center>Hole</td>
+  			<td align=right>&nbsp;&nbsp;<b>Win%</b></td>
+  			<td align=right>&nbsp;&nbsp;Tie%</td>
+  			<td align=right>&nbsp;&nbsp;Lose%</td>
+			<td>&nbsp;</td>
+  			<td align=right>Wins</td>
+  			<td align=right>Losses</td>
+  			<td align=right>Total</td>
+	</tr>
+<% hole_stats = HoleStat.find(:all,:include=>:hole) -%>
+<% i=0 -%>
+<% for stat in hole_stats -%>
+		<tr>
+			<td align=right><%=i=i+1%></td>
+			<td align=right NOWRAP><%=fmt_cards stat.hole.cards %></td>
+  			<td align=right><b><%=fmt_percent stat.p_wins%></b></td>
+  			<td align=right><%=fmt_percent stat.p_ties%></td>
+  			<td align=right><%=fmt_percent stat.p_losses%></td>
+			<td></td>
+  			<td align=right>&nbsp;&nbsp;<%=fmt_long stat.wins%></td>
+  			<td align=right>&nbsp;&nbsp;<%=fmt_long stat.losses%></td>
+  			<td align=right>&nbsp;&nbsp;<%=fmt_long stat.total%></td>
+		</tr>
+<% end -%>
+</table>
+</div>

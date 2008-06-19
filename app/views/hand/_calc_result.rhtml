@@ -1,0 +1,98 @@
+<% @stat ||= nil %>
+<% messages = [] -%>
+<% messages += @hand.errors if @hand && @hand.errors -%>
+<% messages += @hand.warnings if @hand && @hand.warnings -%>
+
+<div style="height:20px">
+<% if messages.length>0 -%>
+<font color="red"><%= messages.join(" - ") %></font>
+<% else -%>
+<%= image_tag("club.gif") %><%= image_tag("diamond.gif") %><%= image_tag("heart.gif") %><%= image_tag("spade.gif") %>
+<% end -%>
+</div>
+
+<% if @stat.nil? %>
+No results found, try entering more cards.
+<% else %>
+
+<table cellspacing=10 cellpadding=0 border=0  class="calc_panel">
+
+<tr align=center>
+<td colspan=2 align=left>
+<table cellspacing="10" bgcolor="FFFFFF">
+  <tr>
+    <td align=right>Hole:</td>
+    <td><%= fmt_cards @hand.hole_cards %></td>
+    <td align=right>Widow:</td>
+    <td><%= fmt_cards @hand.widow_cards %></td>
+  </tr>
+  <tr>
+    <td align=right>Bet:</td>
+    <td><%= @hand.bet %></td>
+    <td align=right>Pot:</td>
+    <td><%=  @hand.pot %></td>
+  </tr>
+</table>
+</td>
+</tr>
+
+<tr align=center>
+<td align=left>
+Against&nbsp;<%= @hand.opponent_count %>&nbsp;Oppponents<br>
+<table cellspacing=10 bgcolor=FFFFFF width=100%>
+<tr>
+  <td NOWRAP align=right><font size=3>Win or Tie:</td>
+  <td NOWRAP align=right><%= fmt_percent @hand.expected_p_wins_or_ties %> %</td>
+</tr>
+<tr>
+  <td align=right><font size=3>Win:</td>
+  <td NOWRAP align=right><b><%= fmt_percent @hand.expected_p_wins %> %</b></td>
+</tr>
+<tr>
+  <td align=right><font size=3>Tie:</td>
+  <td NOWRAP align=right><%= fmt_percent @hand.expected_p_ties %> %</td>
+</tr>
+<tr>
+  <td align=right><font size=3>Lose:</td>
+  <td NOWRAP align=right><%= fmt_percent @hand.expected_p_losses %> %</td>
+</tr>
+<tr>
+  <td NOWRAP align=right>Expected Value:</td>
+  <td NOWRAP align=right><b><%= fmt_money @hand.expected_value %></b></td>
+</tr>
+</table>
+</td>
+
+<td rowspan=1 align=left>
+Compared to All Hands<br>
+<table cellspacing=10 bgcolor=FFFFFF>
+<tr>
+  <td NOWRAP align=right>Win or Tie:</td>
+  <td NOWRAP align=right><%= fmt_percent @stat.p_wins_or_ties %>&nbsp;%</td>
+  <td NOWRAP align=right><%= fmt_long @hand.wins_or_ties %></td>
+</tr><tr>
+  <td NOWRAP align=right>Win:</td>
+  <td NOWRAP align=right><%= fmt_percent @stat.p_wins%>&nbsp;%</td>
+  <td NOWRAP align=right><%= fmt_long @hand.wins %></td>
+</tr><tr>
+  <td NOWRAP align=right>Tie:</td>
+  <td NOWRAP align=right><%= fmt_percent @stat.p_ties %>&nbsp;%</td>
+  <td NOWRAP align=right><%= fmt_long @hand.ties %></td>
+</tr><tr>
+  <td NOWRAP align=right>Lose:</td>
+  <td NOWRAP align=right><%= fmt_percent @stat.p_losses %>&nbsp;%</td>
+  <td NOWRAP align=right><%= fmt_long @hand.losses %></td>
+</tr><tr>
+  <td NOWRAP align=right>Total:</td>
+  <td NOWRAP align=right><%= fmt_percent 1%>&nbsp;%</td>
+  <td NOWRAP align=right><%= fmt_long @hand.total %></td>
+</tr>
+</table>
+</td>
+
+
+</tr>
+</table>
+
+<% end %>
+<% if @hand && @hand.query_time %><div style="font-size:x-small">Query completed in <%= fmt_ms @hand.query_time %> s </div><% end -%>

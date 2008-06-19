@@ -1,0 +1,18 @@
+
+body {
+	font-family: arial, helvetica, sans-serif;
+	background-color: #99FF99;
+	font-size: 100%;
+	color: #000000;
+}
+
+.copyright {
+    right:5px;
+    font-size:small;
+	background-color: #99FF99;
+	z-index:1000;
+}
+
+.calc_panel {
+    background-color: #22FF22; 
+}

@@ -1,0 +1,18 @@
+<% height=650 -%>
+<% width=600 -%>
+<% iframe_src = "#{@base_url}/widget/full?css=#{@base_url}/stylesheets/widget_white"%>
+<% iframe_code = "<iframe src=\"#{iframe_src}\" height=\"#{height}\" width=\"#{width}\" ></iframe>" -%>
+<h2>Add a PokerPronto widget to your web site! </h2>
+<br>
+Simply include this text on your web page:
+<br>
+<%= text_area_tag("hi",iframe_code,"rows"=>3,"id"=>"textarea_iframe","cols"=>80)%>
+<br>
+<br>
+and you will see this, a full featured tool ready to use:
+<br>
+<iframe id="fullWidgetYo<%=Time.now.to_s%>" src="<%=iframe_src%>" height="<%=height%>" width="<%=width%>" style="border: 4px RIDGE "></iframe>
+<br>
+Please send us <%= mail_to("pokerpronto@gmail.com", "email", 
+:subject => "Widgets", 
+:encode => "javascript") %> for more information about widgets.

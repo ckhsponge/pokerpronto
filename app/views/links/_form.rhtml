@@ -1,0 +1,26 @@
+<%= error_messages_for 'link' %>
+
+<!--[form:link]-->
+<p><label for="link_url">Url</label><br/>
+<%= text_field 'link', 'url'  %></p>
+
+<p><label for="link_title">Title</label><br/>
+<%= text_field 'link', 'title'  %></p>
+
+<p><label for="link_description">Description</label><br/>
+<%= text_area 'link', 'description'  %></p>
+
+<p><label for="link_three_way">Three way</label><br/>
+<%= text_field 'link', 'three_way'  %></p>
+
+<p><%= check_box 'link','reciprocal'%><label for="link_reciprocal">Reciprocal</label></p>
+
+<p><%= check_box 'link','warned'%><label for="link_reciprocal">Warned</label></p>
+
+<p><%= check_box 'link','hidden'%><label for="link_reciprocal">Hidden</label></p>
+
+<p><label for="link_title">Email Address</label><br/>
+<%= text_field 'link', 'email_address'  %></p>
+
+<!--[eoform:link]-->
+

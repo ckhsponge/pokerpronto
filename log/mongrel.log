@@ -1,0 +1,1985 @@
+** Daemonized, any open files are closed.  Look at log/mongrel.8000.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Starting Rails with production environment...
+** Daemonized, any open files are closed.  Look at log/mongrel.8001.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 127.0.0.1:8001
+** Starting Rails with production environment...
+** Daemonized, any open files are closed.  Look at log/mongrel.8002.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 127.0.0.1:8002
+** Starting Rails with production environment...
+** ** Rails loaded.Rails loaded.** 
+
+** ** Rails loaded.Loading any Rails specific GemPluginsLoading any Rails specific GemPlugins
+
+
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 127.0.0.1:8001
+** Writing PID file to log/mongrel.8001.pid
+
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** ** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).Mongrel available at 127.0.0.1:8002
+
+** Writing PID file to log/mongrel.8002.pid** 
+Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 127.0.0.1:8000
+** Writing PID file to log/mongrel.8000.pid
+** TERM signal received.
+** TERM signal received.
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.8000.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Daemonized, any open files are closed.  Look at log/mongrel.8001.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 127.0.0.1:8001
+** Daemonized, any open files are closed.  Look at log/mongrel.8002.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 127.0.0.1:8002
+** Starting Rails with production environment...
+** Starting Rails with production environment...
+** Starting Rails with production environment...
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+** Rails loaded.
+** ** Rails loaded.
+Loading any Rails specific GemPlugins** 
+Loading any Rails specific GemPlugins
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 127.0.0.1:8002
+** Writing PID file to log/mongrel.8002.pid
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 127.0.0.1:8000
+** Writing PID file to log/mongrel.8000.pid
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 127.0.0.1:8001
+** Writing PID file to log/mongrel.8001.pid
+** TERM signal received.
+** TERM signal received.
+** TERM signal received.
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+AC
+
+100.0
+dupo checl AC
+dupessss checl 
+dupes 
+dupo checl AC
+dupessss checl 
+AC
+
+100.0
+dupo checl AC
+dupessss checl 
+dupes 
+dupo checl AC
+dupessss checl 
+AC AD
+
+100.0
+dupo checl AC AD
+dupessss checl 
+dupes 
+dupo checl AC AD
+dupessss checl 
+widow leng 0
+zero widow
+time: 0.555053949356079
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+
+100.0
+dupo checl AC AD
+dupessss checl 
+dupes 
+dupo checl AC AD
+dupessss checl 
+widow leng 0
+zero widow
+time: 0.00212693214416504
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+
+100.0
+dupo checl AC AD
+dupessss checl 
+dupes 
+dupo checl AC AD
+dupessss checl 
+widow leng 0
+zero widow
+time: 0.00143790245056152
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+
+100.0
+dupo checl AC AD
+dupessss checl 
+dupes 
+dupo checl AC AD
+dupessss checl 
+widow leng 0
+zero widow
+time: 0.00138616561889648
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+
+100.0
+dupo checl AC AD
+dupessss checl 
+dupes 
+dupo checl AC AD
+dupessss checl 
+widow leng 0
+zero widow
+time: 0.00138688087463379
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+KC
+100.0
+dupo checl AC AD KC
+dupessss checl 
+dupes 
+dupo checl AC AD KC
+dupessss checl 
+widow leng 1
+zero widow
+time: 0.00138497352600098
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+KC
+100.0
+dupo checl AC AD KC
+dupessss checl 
+dupes 
+dupo checl AC AD KC
+dupessss checl 
+widow leng 1
+zero widow
+time: 0.00146198272705078
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+KC QC
+100.0
+dupo checl AC AD KC QC
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC
+dupessss checl 
+widow leng 2
+zero widow
+time: 0.00140714645385742
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+KC QC
+100.0
+dupo checl AC AD KC QC
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC
+dupessss checl 
+widow leng 2
+zero widow
+time: 0.00139594078063965
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+KC QC JC
+100.0
+dupo checl AC AD KC QC JC
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC JC
+dupessss checl 
+widow leng 3
+time: 0.226630926132202
+tie_contrib 0.706696941664564
+exp 88.3892579822274
+AC AD
+KC QC JC
+100.0
+dupo checl AC AD KC QC JC
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC JC
+dupessss checl 
+widow leng 3
+time: 0.00194406509399414
+tie_contrib 0.706696941664564
+exp 88.3892579822274
+AC AD
+KC QC JC TC
+100.0
+dupo checl AC AD KC QC JC TC
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC JC TC
+dupessss checl 
+widow leng 4
+time: 0.133308887481689
+tie_contrib 0.0
+exp 100.0
+AC AD
+KC QC JC TC 9C
+100.0
+dupo checl AC AD KC QC JC TC 9C
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC JC TC 9C
+dupessss checl 
+widow leng 5
+time: 0.302974939346313
+tie_contrib 0.0
+exp 100.0
+AC AD
+KC QC JC TC
+100.0
+dupo checl AC AD KC QC JC TC
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC JC TC
+dupessss checl 
+widow leng 4
+time: 0.00215315818786621
+tie_contrib 0.0
+exp 100.0
+AC AD
+KC QC JC TC
+100.0
+dupo checl AC AD KC QC JC TC
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC JC TC
+dupessss checl 
+widow leng 4
+time: 0.00199699401855469
+tie_contrib 0.0
+exp 100.0
+AC AD
+KC QC JC TC 8C
+100.0
+dupo checl AC AD KC QC JC TC 8C
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC JC TC 8C
+dupessss checl 
+widow leng 5
+time: 0.193401098251343
+tie_contrib 0.0
+exp 100.0
+AC AD
+KC QC JC TC 8C
+100.0
+dupo checl AC AD KC QC JC TC 8C
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC JC TC 8C
+dupessss checl 
+widow leng 5
+time: 0.00279498100280762
+tie_contrib 0.0
+exp 100.0
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+AC AD
+KC QC JC TC 9C
+100.0
+dupo checl AC AD KC QC JC TC 9C
+dupessss checl 
+dupes 
+dupo checl AC AD KC QC JC TC 9C
+dupessss checl 
+widow leng 5
+time: 0.0534827709197998
+tie_contrib 0.0
+exp 100.0
+** Daemonized, any open files are closed.  Look at log/mongrel.8000.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Starting Rails with production environment...
+** Daemonized, any open files are closed.  Look at log/mongrel.8001.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 127.0.0.1:8001
+** Starting Rails with production environment...
+** Daemonized, any open files are closed.  Look at log/mongrel.8002.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 127.0.0.1:8002
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** ** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 127.0.0.1:8002
+** Writing PID file to log/mongrel.8002.pid
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 127.0.0.1:8001
+** Writing PID file to log/mongrel.8001.pid
+** Mongrel available at 127.0.0.1:8000
+** Writing PID file to log/mongrel.8000.pid
+Thu Nov 02 07:35:03 -0800 2006: ERROR: can't convert nil into String
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+AC AD
+
+100.0
+dupo checl AC AD
+dupessss checl 
+dupes 
+dupo checl AC AD
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.00303792953491211
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+JC
+100.0
+dupo checl AC AD JC
+dupessss checl 
+dupes 
+dupo checl AC AD JC
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00137901306152344
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+JC JD
+100.0
+dupo checl AC AD JC JD
+dupessss checl 
+dupes 
+dupo checl AC AD JC JD
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.00148105621337891
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+JC JD JS AC AH
+100.0
+dupo checl AC AD JC JD JS AC AH
+dupessss checl AC
+dupes AC
+dupo checl AC AD JC JD JS AC AH
+dupessss checl AC
+dupo checl AC AD JC JD JS AC AH
+dupessss checl AC
+AC AD
+JC JD JS AC AH
+100.0
+dupo checl AC AD JC JD JS AC AH
+dupessss checl AC
+dupes AC
+dupo checl AC AD JC JD JS AC AH
+dupessss checl AC
+dupo checl AC AD JC JD JS AC AH
+dupessss checl AC
+AC AD
+JC JD JS AC AH
+100.0
+dupo checl AC AD JC JD JS AC AH
+dupessss checl AC
+dupes AC
+dupo checl AC AD JC JD JS AC AH
+dupessss checl AC
+dupo checl AC AD JC JD JS AC AH
+dupessss checl AC
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+8C
+
+100.0
+dupo checl 8C
+dupessss checl 
+dupes 
+dupo checl 8C
+dupessss checl 
+8C
+
+100.0
+dupo checl 8C
+dupessss checl 
+dupes 
+dupo checl 8C
+dupessss checl 
+8C 9H
+
+100.0
+dupo checl 8C 9H
+dupessss checl 
+dupes 
+dupo checl 8C 9H
+dupessss checl 
+widow leng 0
+zero widow
+0
+time: 0.330567121505737
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+
+100.0
+dupo checl 8C 9H
+dupessss checl 
+dupes 
+dupo checl 8C 9H
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.00140810012817383
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH
+100.0
+dupo checl 8C 9H AH
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00142717361450195
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+
+100.0
+dupo checl 8C 9H
+dupessss checl 
+dupes 
+dupo checl 8C 9H
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.00137209892272949
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH
+100.0
+dupo checl 8C 9H AH
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00141501426696777
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH
+100.0
+dupo checl 8C 9H AH
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00144505500793457
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH
+100.0
+dupo checl 8C 9H AH
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00140285491943359
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH
+100.0
+dupo checl 8C 9H AH
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00137901306152344
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH
+100.0
+dupo checl 8C 9H AH
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.0014340877532959
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH
+100.0
+dupo checl 8C 9H AH
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00140094757080078
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH
+100.0
+dupo checl 8C 9H AH
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00139784812927246
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH 5D
+100.0
+dupo checl 8C 9H AH 5D
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.00139212608337402
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH 5D
+100.0
+dupo checl 8C 9H AH 5D
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.00139904022216797
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH 5D
+100.0
+dupo checl 8C 9H AH 5D
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.00137495994567871
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH 5D
+100.0
+dupo checl 8C 9H AH 5D
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.00140595436096191
+tie_contrib 2.02870063030959
+exp 48.0970327651146
+8C 9H
+AH 5D 8S
+100.0
+dupo checl 8C 9H AH 5D 8S
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S
+dupessss checl 
+widow leng 3
+1
+time: 0.066058874130249
+tie_contrib 1.2888832824078
+exp 70.567329165849
+8C 9H
+AH 5D 8S JS
+100.0
+dupo checl 8C 9H AH 5D 8S JS
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS
+dupessss checl 
+widow leng 4
+1
+time: 0.529287815093994
+tie_contrib 1.5590689503733
+exp 64.7891963109354
+8C 9H
+AH 5D 8S JS
+100.0
+dupo checl 8C 9H AH 5D 8S JS
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS
+dupessss checl 
+widow leng 4
+1
+time: 0.00190591812133789
+tie_contrib 1.5590689503733
+exp 64.7891963109354
+8C 9H
+AH 5D 8S JS AD
+100.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.2795250415802
+tie_contrib 3.03030303030303
+exp 71.6161616161616
+8C 9H
+AH 5D 8S JS AD
+100.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.0019371509552002
+tie_contrib 3.03030303030303
+exp 71.6161616161616
+8C 9H
+AH 5D 8S JS AD
+100.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00207996368408203
+tie_contrib 3.03030303030303
+exp 71.6161616161616
+8C 9H
+AH 5D 8S JS AD
+100.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00194597244262695
+tie_contrib 3.03030303030303
+exp 71.6161616161616
+8C 9H
+AH 5D 8S JS AD
+100.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00192999839782715
+tie_contrib 3.03030303030303
+exp 71.6161616161616
+8C 9H
+AH 5D 8S JS AD
+100.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00198507308959961
+tie_contrib 3.03030303030303
+exp 71.6161616161616
+8C 9H
+AH 5D 8S JS AD
+100.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00195884704589844
+tie_contrib 3.03030303030303
+exp 71.6161616161616
+8C 9H
+AH 5D JS AD
+100.0
+dupo checl 8C 9H AH 5D JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D JS AD
+dupessss checl 
+widow leng 4
+1
+time: 0.037243127822876
+tie_contrib 3.24220465524813
+exp 28.6660079051383
+8C 9H
+AH 5D TS JS AD
+100.0
+dupo checl 8C 9H AH 5D TS JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D TS JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.0693800449371338
+tie_contrib 3.48484848484849
+exp 25.7070707070707
+8C 9H
+AH 5D JS AD
+100.0
+dupo checl 8C 9H AH 5D JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D JS AD
+dupessss checl 
+widow leng 4
+1
+time: 0.00198984146118164
+tie_contrib 3.24220465524813
+exp 28.6660079051383
+8C 9H
+AH 5D 8S JS AD
+100.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.0262069702148438
+tie_contrib 3.03030303030303
+exp 71.6161616161616
+8C 9H
+AH 5D 8S JS AD
+100.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00203394889831543
+tie_contrib 3.03030303030303
+exp 71.6161616161616
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.0788390636444092
+tie_contrib 0.0909090909090909
+exp 2.14848484848485
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00199699401855469
+tie_contrib 0.0909090909090909
+exp 2.14848484848485
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00198912620544434
+tie_contrib 0.096108917390608
+exp 0.408377816964035
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00198698043823242
+tie_contrib 0.096108917390608
+exp 0.408377816964035
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00199604034423828
+tie_contrib 0.0909090909090909
+exp 2.14848484848485
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.0019538402557373
+tie_contrib 0.0909090909090909
+exp 2.14848484848485
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00201296806335449
+tie_contrib 0.096108917390608
+exp 0.408377816964035
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00197100639343262
+tie_contrib 0.096108917390608
+exp 0.408377816964035
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00204110145568848
+tie_contrib 0.136016083702034
+exp 1.10390383479731
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.0019681453704834
+tie_contrib 0.136016083702034
+exp 1.10390383479731
+8C 9H
+AH 5D 8S JS AD
+3.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.0019681453704834
+tie_contrib 0.136016083702034
+exp 1.10390383479731
+8C 9H
+AH 5D 8S JS AD
+1.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00208210945129395
+tie_contrib 0.0453386945673447
+exp 0.367967944932438
+8C 9H
+AH 5D 8S JS AD
+10.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00206518173217773
+tie_contrib 0.453386945673447
+exp 3.67967944932438
+8C 9H
+AH 5D 8S JS AD
+10.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.0019841194152832
+tie_contrib 0.453386945673447
+exp 3.67967944932438
+8C 9H
+AH 5D 8S JS AD
+10.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00197696685791016
+tie_contrib 0.453386945673447
+exp 3.67967944932438
+8C 9H
+AH 5D 8S JS AD
+10.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00197196006774902
+tie_contrib 0.453386945673447
+exp 3.67967944932438
+8C 9H
+AH 5D 8S JS AD
+50.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00196719169616699
+tie_contrib 2.26693472836724
+exp 18.3983972466219
+8C 9H
+AH 5D 8S JS AD
+5.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00197219848632812
+tie_contrib 0.226693472836724
+exp 1.83983972466219
+8C 9H
+AH 5D 8S JS AD
+50.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.0019690990447998
+tie_contrib 2.26693472836724
+exp 18.3983972466219
+8C 9H
+AH 5D 8S JS AD
+50.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00195503234863281
+tie_contrib 1.51515151515152
+exp 35.8080808080808
+8C 9H
+AH 5D 8S JS AD
+50.0
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+dupes 
+dupo checl 8C 9H AH 5D 8S JS AD
+dupessss checl 
+widow leng 5
+1
+time: 0.00199103355407715
+tie_contrib 1.51515151515152
+exp 35.8080808080808
+
+
+50.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+2S
+
+50.0
+dupo checl 2S
+dupessss checl 
+dupes 
+dupo checl 2S
+dupessss checl 
+2S 3S
+
+50.0
+dupo checl 2S 3S
+dupessss checl 
+dupes 
+dupo checl 2S 3S
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.0130491256713867
+tie_contrib 1.44622949605935
+exp 17.9922152985041
+2S 3S
+
+50.0
+dupo checl 2S 3S
+dupessss checl 
+dupes 
+dupo checl 2S 3S
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.00141000747680664
+tie_contrib 1.44622949605935
+exp 17.9922152985041
+2S 3S
+
+50.0
+dupo checl 2S 3S
+dupessss checl 
+dupes 
+dupo checl 2S 3S
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.00138092041015625
+tie_contrib 1.44622949605935
+exp 17.9922152985041
+2S 3S
+
+50.0
+dupo checl 2S 3S
+dupessss checl 
+dupes 
+dupo checl 2S 3S
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.0704209804534912
+tie_contrib 0.0464168187101468
+exp 0.11207757222728
+2S 3S
+
+50.0
+dupo checl 2S 3S
+dupessss checl 
+dupes 
+dupo checl 2S 3S
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.00142478942871094
+tie_contrib 0.0464168187101468
+exp 0.11207757222728
+2S 3S
+4S
+50.0
+dupo checl 2S 3S 4S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00294804573059082
+tie_contrib 0.0464168187101468
+exp 0.11207757222728
+2S 3S
+
+50.0
+dupo checl 2S 3S
+dupessss checl 
+dupes 
+dupo checl 2S 3S
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.00138401985168457
+tie_contrib 0.0464168187101468
+exp 0.11207757222728
+2S 3S
+4S
+50.0
+dupo checl 2S 3S 4S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00139093399047852
+tie_contrib 0.0464168187101468
+exp 0.11207757222728
+2S 3S
+4S 5D
+50.0
+dupo checl 2S 3S 4S 5D
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.00141692161560059
+tie_contrib 0.0464168187101468
+exp 0.11207757222728
+2S 3S
+4S 5D
+50.0
+dupo checl 2S 3S 4S 5D
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.00141501426696777
+tie_contrib 0.0464168187101468
+exp 0.11207757222728
+2S 3S
+4S 5D
+50.0
+dupo checl 2S 3S 4S 5D
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.00138401985168457
+tie_contrib 0.0464168187101468
+exp 0.11207757222728
+2S 3S
+4S 5D
+50.0
+dupo checl 2S 3S 4S 5D
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.00139212608337402
+tie_contrib 0.0464168187101468
+exp 0.11207757222728
+2S 3S
+4S 5D 7D
+50.0
+dupo checl 2S 3S 4S 5D 7D
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D
+dupessss checl 
+widow leng 3
+1
+time: 0.0450410842895508
+tie_contrib 0.0308423716917141
+exp 0.0926262922701376
+2S 3S
+4S 5D 7D
+50.0
+dupo checl 2S 3S 4S 5D 7D
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D
+dupessss checl 
+widow leng 3
+1
+time: 0.00185704231262207
+tie_contrib 0.0308423716917141
+exp 0.0926262922701376
+2S 3S
+4S 5D 7D 6S
+50.0
+dupo checl 2S 3S 4S 5D 7D 6S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 6S
+dupessss checl 
+widow leng 4
+1
+time: 0.0670700073242188
+tie_contrib 5.50035672996362
+exp 9.52018216403696
+2S 3S
+4S 5D 7D 6S
+50.0
+dupo checl 2S 3S 4S 5D 7D 6S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 6S
+dupessss checl 
+widow leng 4
+1
+time: 0.00193595886230469
+tie_contrib 5.50035672996362
+exp 9.52018216403696
+2S 3S
+4S 5D 7D 6S 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 6S 5S
+dupessss checl 
+dupes 
+dupo chThu Nov 02 08:56:49 -0800 2006: ERROR: can't convert nil into String
+Thu Nov 02 09:29:12 -0800 2006: ERROR: can't convert nil into String
+Thu Nov 02 09:39:42 -0800 2006: ERROR: can't convert nil into String
+ecl 2S 3S 4S 5D 7D 6S 5S
+dupessss checl 
+widow leng 5
+1
+time: 0.119444847106934
+tie_contrib 0.0
+exp 49.6977338951779
+2S 3S
+4S 5D 7D 6S 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 6S 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 6S 5S
+dupessss checl 
+widow leng 5
+1
+time: 0.00206208229064941
+tie_contrib 0.0
+exp 49.6977338951779
+2S 3S
+4S 5D 7D 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.307826995849609
+tie_contrib 0.0133563572944668
+exp 0.100134330096043
+2S 3S
+4S 5D 7D 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.00195217132568359
+tie_contrib 0.0133563572944668
+exp 0.100134330096043
+2S 3S
+4S 5D 7D 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.00195193290710449
+tie_contrib 0.0133563572944668
+exp 0.100134330096043
+2S 3S
+4S 5D 7D 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.00193905830383301
+tie_contrib 0.0133563572944668
+exp 0.100134330096043
+2S 3S
+4S 5D 7D 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.00194501876831055
+tie_contrib 0.0133563572944668
+exp 0.100134330096043
+2S 3S
+4S 5D 7D 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.00195908546447754
+tie_contrib 0.0133563572944668
+exp 0.100134330096043
+2S 3S
+4S 5D 7D 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.00197410583496094
+tie_contrib 0.0133563572944668
+exp 0.100134330096043
+2S 3S
+4S 5D 7D 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.00194501876831055
+tie_contrib 0.0133563572944668
+exp 0.100134330096043
+2S 3S
+4S 5D 5S
+50.0
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+widow leng 3
+1
+time: 0.040863037109375
+tie_contrib 0.326050794844304
+exp 1.86499309773879
+2S 3S
+4S 5D 7D 5S
+50.0
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7D 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.0720269680023193
+tie_contrib 0.0133563572944668
+exp 0.100134330096043
+2S 3S
+4S 5D 5S
+50.0
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+widow leng 3
+1
+time: 0.00191903114318848
+tie_contrib 0.326050794844304
+exp 1.86499309773879
+2S 3S
+4S 5D 5S
+50.0
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+widow leng 3
+1
+time: 0.00188088417053223
+tie_contrib 0.326050794844304
+exp 1.86499309773879
+2S 3S
+4S 5D 5S
+50.0
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+widow leng 3
+1
+time: 0.0019078254699707
+tie_contrib 0.326050794844304
+exp 1.86499309773879
+2S 3S
+4S 5D 5S
+50.0
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+widow leng 3
+1
+time: 0.0018620491027832
+tie_contrib 0.326050794844304
+exp 1.86499309773879
+2S 3S
+4S 5D 5S
+50.0
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 5S
+dupessss checl 
+widow leng 3
+1
+time: 0.00185704231262207
+tie_contrib 0.326050794844304
+exp 1.86499309773879
+2S 3S
+4S 5D 7S 5S
+50.0
+dupo checl 2S 3S 4S 5D 7S 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7S 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.0365409851074219
+tie_contrib 0.0
+exp 22.977220668297
+2S 3S
+4S 5D 7S 5S
+50.0
+dupo checl 2S 3S 4S 5D 7S 5S
+dupessss checl 
+dupes 
+dupo checl 2S 3S 4S 5D 7S 5S
+dupessss checl 
+widow leng 4
+1
+time: 0.00198483467102051
+tie_contrib 0.0
+exp 22.977220668297
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss ** TERM signal received.
+** TERM signal received.
+** TERM signal received.
+AC
+
+100.0
+dupo checl AC
+dupessss checl 
+dupes 
+dupo checl AC
+dupessss checl 
+AC AD
+
+100.0
+dupo checl AC AD
+dupessss checl 
+dupes 
+dupo checl AC AD
+dupessss checl 
+widow leng 0
+zero widow
+0
+time: 0.053311824798584
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+
+100.0
+dupo checl AC AD
+dupessss checl 
+dupes 
+dupo checl AC AD
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.00149893760681152
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+JC
+100.0
+dupo checl AC AD JC
+dupessss checl 
+dupes 
+dupo checl AC AD JC
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00145983695983887
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+JC JD
+100.0
+dupo checl AC AD JC JD
+dupessss checl 
+dupes 
+dupo checl AC AD JC JD
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.00173807144165039
+tie_contrib 0.271797817324446
+exp 85.203713302101
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+AC
+
+100.0
+dupo checl AC
+dupessss checl 
+dupes 
+dupo checl AC
+dupessss checl 
+AC AD
+
+100.0
+dupo checl AC AD
+dupessss checl 
+dupes 
+dupo checl AC AD
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.00141787528991699
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+
+100.0
+dupo checl AC AD
+dupessss checl 
+dupes 
+dupo checl AC AD
+dupessss checl 
+widow leng 0
+zero widow
+1
+time: 0.00143003463745117
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+JC
+100.0
+dupo checl AC AD JC
+dupessss checl 
+dupes 
+dupo checl AC AD JC
+dupessss checl 
+widow leng 1
+zero widow
+1
+time: 0.00222396850585938
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+JC JD
+100.0
+dupo checl AC AD JC JD
+dupessss checl 
+dupes 
+dupo checl AC AD JC JD
+dupessss checl 
+widow leng 2
+zero widow
+1
+time: 0.0117020606994629
+tie_contrib 0.271797817324446
+exp 85.203713302101
+AC AD
+JC JD JS
+100.0
+dupo checl AC AD JC JD JS
+dupessss checl 
+dupes 
+dupo checl AC AD JC JD JS
+dupessss checl 
+widow leng 3
+1
+time: 0.0700840950012207
+tie_contrib 0.315551444136088
+exp 95.2375746362795
+AC AD
+JC JD JS AC
+100.0
+dupo checl AC AD JC JD JS AC
+dupessss checl AC
+dupes AC
+dupo checl AC AD JC JD JS AC
+dupessss checl AC
+dupo checl AC AD JC JD JS AC
+dupessss checl AC
+AC AD
+JC JD JS AC
+100.0
+dupo checl AC AD JC JD JS AC
+dupessss checl AC
+dupes AC
+dupo checl AC AD JC JD JS AC
+dupessss checl AC
+dupo checl AC AD JC JD JS AC
+dupessss checl AC
+checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 
+
+
+100.0
+dupo checl 
+dupessss checl 
+dupes 
+dupo checl 
+dupessss checl 

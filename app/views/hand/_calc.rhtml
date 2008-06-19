@@ -1,0 +1,67 @@
+
+<%= form_remote_tag(:update => "result", :url => { :controller=>"hand", :action => "calc_result" }, :html=>{:id=>"hand_form",:style=>"padding:0px;margin:0px;"} ) %> 
+
+<% widget ||= false %>
+<% show_pony_two ||= false || widget -%>
+<% show_powered_by ||= false || widget -%>
+<% show_add_widget ||= false || widget -%>
+<font size=5>Texas Holdem Odds Calculator</font>
+<br>
+Enter 2 cards in the hole and 0, 3, 4, or 5 cards in the widow.
+<br> e.g. acad 9STHqc
+<br><br><b><font size=4>Table Information</font></b>
+<br>
+<table width="100%" border=0>
+<tr><td>
+<table class="calc_panel" border=0>
+  <tr>
+    <td>Hole:</td>
+    <td><%= text_field 'hand', 'hole_string',:size=>10 %></td>
+    <td colspan=3 NOWRAP>Widow:&nbsp;
+    <%= text_field 'hand', 'widow_string',:size=>25 %></td>
+  </tr>
+  <tr>
+    <td align=right>Bet:</td>
+    <td><%= text_field 'hand', 'bet',:size=>10 %></td>
+    <td align=left colspan=2>Opponents:&nbsp;
+    <%= text_field 'hand', 'opponent_count',:size=>10 %></td>
+  </tr>
+  <tr>
+    <td align=right>Pot:</td>
+    <td><%= text_field 'hand', 'pot',:size=>10 %></td>
+    <td align=right colspan=3><a href="javascript:PokerPronto.clear()" title="(escape key)">clear</a></td>
+  </tr>
+</table>
+</td>
+<td align="center" width="100%">
+<% if show_pony_two -%>
+<%= image_tag "horseT.gif" %>
+<% end %>
+</td>
+</tr>
+<% if show_powered_by -%>
+<tr><td colspan="2" align="center">
+powered by <%= link_to "PokerPronto","/",:target=>"_blank" %>
+</td></tr>
+<% end -%>
+</table><b><font size=4>Results</font></b>
+<% #warnings %>
+<% #Stat stat = holdemStatBean.getStat(); %>
+<% #ExpectedValue ev = holdemStatBean.getExpectedValue(); %>
+
+<div id="result">
+<%= render_partial "/hand/calc_result"%>
+</div>
+<%= end_form_tag -%>
+<% if show_add_widget -%>
+    </td></tr>
+    <tr><td height="100%" width="100%" align="center" valign="bottom">
+    <font size="3">Want to display poker odds on your site? Check out these <a target="_blank" href="http://pokerpronto.com#widgets">Widgets</a>.</font>
+<% end -%>
+<script type="text/javascript">
+PokerPronto.initKeyStrokes();
+<% if !widget -%>
+PokerPronto.change();
+<% end -%>
+</script>
+

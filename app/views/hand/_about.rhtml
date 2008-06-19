@@ -1,0 +1,53 @@
+<h2>Poker odds fast!</h2>
+<p>This site provides you with win/loss/tie probabilities for the game of Texas Holdem. 
+Given the knowledge of your hand and the shown widow card your hand is compared to all 
+possible other hands. All of this information has been precalculated so you get it <b>fast!</b>
+</p>
+
+<h2>How</h2>
+<p>Starting from the top, say you have two hole cards and know all five widow cards. There 
+are 990 possible other hands. Comparing your hand to all other hands, the rank of your hand 
+can be determined. If half of these hands beat yours then your odds of winning against one 
+opponent is 50% assuming you know nothing else about the game. If you are playing against 
+two opponents your odds go down to 25%. Calculating this stage of the game is easy, my 
+computer can do it in less than a second. Doing it for every possible hand and widow took a long time.
+</p>
+
+<p>Working backwards, if you know the widow to the turn there is only one card left to be shown. 
+This river card is one of 46 and for each of these 46 there are still 990 opponent hands. 
+This makes 45,540 hands for comparison. Since all calculations were completed for the previous 
+step a summation of the appropriate numbers from that step improve calculation time.
+</P>
+
+<p>Repeat for the stage where the three flop cards are known. At this stage there are 1,070,190 
+possible opponent hands. Repeat again for the stage when all you know is your two hole cards. 
+At this stage there are 2,097,572,400 opponent hands.
+</p>
+
+<h2>Verification</h2>
+<p>Results were verified by comparison to a Monte Carlo simulation. 200,000 random hands were 
+generated for each set of hole cards you could have and statisitcs recorded. The difference 
+between the simulation and PokerPronto was at most 0.36%.
+</p>
+
+<h2>Technology</h2>
+<p>All data was calculated on a PowerBook G4 867 MHz using custom Java software. The data was stored 
+in a MySql 4.1.7 database. After the first round of calculations the limiting time factor was database 
+seek time so a faster processor would not have helped. The server WAS Jakarta Tomcat 4.1.30 running on 
+a PowerMac G3 with Yellow Dog Linux.
+</p>
+
+<h2><b>Technology Update October 2006</b></h2>
+<p>This site is now powered by Ruby on Rails, a Mongrel Pound, and MySql 5.0 on a Mac Mini 1.66 Intel core duo.
+</p>
+
+<h2>Good Luck!</h2>
+<p>PokerPronto is not responsible for poor gambling decisions made by you. If you are addicted to gambling 
+try alcoholism. Maybe it's cheaper. All data provided is accurate to the best of our knowledge.
+</p>
+
+
+<div style="font-size:small">
+All data on this site is copyright PokerPronto and may not be used or distributed in any
+manner without express written permission from PokerPronto. 
+</div>

@@ -1,0 +1,35 @@
+<%= link_to("stats",:controller=>"stats") %>
+<%= link_to("pokerpronto","/") %><br>
+<h1>Listing links</h1>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Three Way</th>
+    <th>Reciprocal</th>
+    <th>Warned</th>
+    <th>Hidden</th>
+    <th>Email Address</th>
+  </tr>
+  
+<% for link in @links %>
+  <tr>
+    <td><%= link_to(link.title,link.url,:target=>"_blank") %></td>
+    <td><%= link_to(link.three_way,link.three_way,:target=>"_blank") %></td>
+    <td><%=h link.reciprocal? ? 1 : 0 %></td>
+    <td><%=h link.warned? ? 1 : 0 %></td>
+    <td><%=h link.hidden? ? 1 : 0 %></td>
+    <td><%= mail_to(link.email_address, link.email_address, :subject => "Hello") %></td>
+    <td><%= link_to 'Show', :action => 'show', :id => link %></td>
+    <td><%= link_to 'Edit', :action => 'edit', :id => link %></td>
+    <td><%= link_to 'Destroy', { :action => 'destroy', :id => link }, :confirm => 'Are you sure?', :post => true %></td>
+  </tr>
+<% end %>
+</table>
+
+<%= link_to 'Previous page', { :page => @link_pages.current.previous } if @link_pages.current.previous %>
+<%= link_to 'Next page', { :page => @link_pages.current.next } if @link_pages.current.next %> 
+
+<br />
+
+<%= link_to 'New link', :action => 'new' %>

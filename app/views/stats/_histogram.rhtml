@@ -1,0 +1,16 @@
+<% max = StatsController.max_count(data) -%>
+<% char_width ||= 60 -%>
+<table border=0>
+<% for datum in data -%>
+	<% count = datum.histogram_count -%>
+	<% row_length = char_width*count/max -%>
+	<tr>
+		<td align=right>
+			<%=datum.histogram_column_name %>
+		</td>
+		<td>
+			<%row_length.times {%>X<%}%> <%=count%>
+		</td>
+	</tr>
+<% end -%>
+</table>

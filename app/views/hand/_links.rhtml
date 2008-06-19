@@ -1,0 +1,81 @@
+<table border=0>
+<tr><td NOWRAP>
+Do you need some chips? or a poker book?
+</td><td valign="middle" width=100%>
+<form action="http://www.amazon.com/exec/obidos/external-search" target="_blank">
+  <table border="0" cellpadding="0" cellspacing="0" align="left" height="40" width="120" style="border: 1px solid #000000 !important;">
+         <tr>
+           <td style="background-color:#fff;" height="20" valign="bottom" align="center">
+               <span style="font-family: verdana,arial,helvetica,sans-serif; font-size:10px !important; font-weight:bold !important;">Search Now:</span>
+           </td>
+           <td style="background-color:#fff;">
+           </td>
+           <td colspan="2" rowspan=2 style="background-color:#000;" height="40">
+<a href="http://www.amazon.com/exec/obidos/external-search?keyword=poker&mode=blended&tag=pokerprontoco-20&Submit.x=7&Submit.y=10" target="_blank">
+<img src="http://g-images.amazon.com/images/G/01/associates/build-links/ap-search-logo-126x32.gif" height="36" border="0" width="126" /></a>
+</td>
+</tr><tr>
+           <td style="background-color:#fff;" align="center" height="30" valign="top">
+               <input type="text" name="keyword" size="10" value="poker" />
+           </td>
+           <td style="background-color:#fff;" height="20" valign="top" align="left">
+             <input type="hidden" name="mode" value="blended" /> 
+             <input type="hidden" name="tag" value="pokerprontoco-20" /> 
+             <input type="image" width="21" height="21" border="0" value="Go" name="Submit" src="http://g-images.amazon.com/images/G/01/associates/build-links/ap-search-go-btn.gif" align="absmiddle" /> 
+           </td>
+         </tr>
+       </table>
+</form>
+</td></tr>
+</table>
+<hr size="1" noshade>
+Here are some links to other resources:
+<p>
+<table border=0>
+<tr><td colspan=2>
+<a href="http://www.iodo.us/cgi-bin/THEAssistant.pl" target="_blank">
+Texas Hold'em Assistant</a> is a web tool that displays the odds of getting a hand.
+</td></tr>
+<tr><td colspan=2>
+Buy this software and play against <a href="http://www.poki-poker.com/" target="_blank">Poki</a> the robot. <i>One day, the world's best poker champions may be seated  across from an opponent with the coldest and most lifeless  eyes they have ever seen.</i>
+</td>
+</tr>
+<tr><td colspan=2>
+<a href="http://www.pokerlistings.com?affid=128" target="_blank">Poker Listings</a> - more poker links than you can shake a stick at.
+</td>
+</tr>
+<tr><td colspan=2>
+<a href="http://www.pokertop10.com" target="_blank">Poker Top 10</a> - links for you to click on.
+</td>
+</tr>
+<tr><td colspan=2>
+<a href="http://www.homepokertourney.com" target="_blank">Home Poker Tourney</a> - Advice on how to host and run a no-limit Texas Hold'em poker tournament in your home.
+</td>
+</tr>
+<tr><td colspan=2>
+<a href="http://www.holdem-online.net" target="_blank">Holdem Online</a>
+- gives you advice on how to play Fixed Limit Texas Hold'em.
+</td>
+</tr>
+<tr><td colspan=2>
+<a href="http://www.wsop2005.com/" target="_blank">WSOP 2006</a>
+- provides an in-depth strategy guide for tournament poker and some historical information about WSOP.
+</td>
+</tr>
+<% for ad in Advertisement.all -%>
+<tr><td colspan=2>
+<%=ad %>
+</td>
+</tr>
+<% end -%>
+<% for link in @links -%>
+<% if !link.hidden? -%>
+<tr><td colspan=2>
+<a href="<%=link.url%>" target="_blank"><%=link.title%></a>
+- <%=link.description%>
+</td>
+</tr>
+<% end -%>
+<% end -%>
+
+</table>

@@ -1,0 +1,7 @@
+** Daemonized, any open files are closed.  Look at log/mongrel.8001.pid and log/mongrel.8001.log for info.
+** Starting Mongrel listening at 127.0.0.1:8001
+** Starting Rails with production environment...
+Cannot find gem for Rails =1.1.6:
+    Install the missing gem with 'gem install -v=1.1.6 rails', or
+    change environment.rb to define RAILS_GEM_VERSION with your desired version.
+  
