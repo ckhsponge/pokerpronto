@@ -1,56 +1,4 @@
-<html>
-<head>
-<title>PokerPronto</title>
-<%= javascript_include_tag "prototype" %> 
-<%= javascript_include_tag "fantabulous" %> 
-<%= javascript_include_tag "pokerpronto" %> 
-<%= stylesheet_link_tag "tabs" %> 
-<%= stylesheet_link_tag "pokerpronto" %> 
 
-</head>
-<body bgcolor=#99FF99 >
-<table border=0 cellpadding="4" cellspacing="4" width="100%">
-<tr>
-<td NOWRAP valign="middle">
-  <font size="5">PokerPronto</font><br>
-  <font size="3">Calculate Texas Holdem odds fast!</font>
-<br>
-</td>
-<td width=100% align="middle">
-  <%= image_tag "horseT.gif" %>
-</td>
-<td valign=bottom align=right width="0%">
-<%= mail_to("pokerpronto@gmail.com", "Email&nbsp;PokerPronto", 
-:subject => "Hello", 
-:encode => "javascript") %> 
-</td>
-</tr>
-</table>
-<div id="mainmenu" class="bar">
-    <ul id="tabs">
-        <li>
-            <a href="#calculate">Calculate</a>
-        </li>
-        <li>
-            <a href="#instructions">Instructions</a>
-        </li>
-        <li>
-            <a href="#about">About</a>
-        </li>
-        <li>
-            <a href="#holes">Holes</a>
-        </li>
-        <li>
-            <a href="#links">Links</a>
-        </li>
-        <li>
-            <a href="#widgets">Widgets</a>
-        </li>
-        <li>
-            <a href="#store">Store&nbsp;<font color="red">NEW!</font></a>
-        </li>
-    </ul>
-</div>
 <div class="panel" id="calculate" style="height:500px">
     <%=render_partial "calc" %>
 </div>
@@ -73,19 +21,3 @@
     <%=render_partial "store" %>
 </div>
 
-<div class="bar">&nbsp;</div>
-<div id="footerContainer" style="padding:5px;text-align:center;position:relative">
-<% if PokerprontoEnvironment::USE_FOOTER_ADS -%>
-    <div  id="advertisement">
-    <%= Advertisement.random %>
-    </div>
-    <script type="text/javascript">
-        PokerPronto.initAdvertisements();
-    </script>
-<% end -%>
-<div class="copyright">
-Copyright &copy; 2006 PokerPronto
-</div>
-</div>
-</body>
-</html>

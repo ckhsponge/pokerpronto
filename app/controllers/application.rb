@@ -13,6 +13,7 @@ class ApplicationController < ActionController::Base
   end
   
   def authenticate
+    return false
     if params[:pass] && !params[:pass].empty?
       cookies[:pass]={:value=>params[:pass],:expires=>1.years.from_now}
       redirect_to "/stats"

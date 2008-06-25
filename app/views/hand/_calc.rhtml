@@ -1,7 +1,7 @@
 
 <%= form_remote_tag(:update => "result", :url => { :controller=>"hand", :action => "calc_result" }, :html=>{:id=>"hand_form",:style=>"padding:0px;margin:0px;"} ) %> 
 
-<% widget ||= false %>
+<% widget ||= false || @widget %>
 <% show_pony_two ||= false || widget -%>
 <% show_powered_by ||= false || widget -%>
 <% show_add_widget ||= false || widget -%>
@@ -52,7 +52,7 @@ powered by <%= link_to "PokerPronto","/",:target=>"_blank" %>
 <div id="result">
 <%= render_partial "/hand/calc_result"%>
 </div>
-<%= end_form_tag -%>
+</form>
 <% if show_add_widget -%>
     </td></tr>
     <tr><td height="100%" width="100%" align="center" valign="bottom">

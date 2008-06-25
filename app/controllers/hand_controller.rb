@@ -11,12 +11,28 @@ class HandController < ApplicationController
   
   def pokerpronto
     hit
-    @links = Link.find(:all)
     calculate(:new=>true)
+    @panel_height = 500
+    render :action=>:calc
   end
   
   def calc_result
     calculate 
+    render :action=>:calc_result, :layout => false
+  end
+  
+  def instructions
+  end
+  def about
+  end
+  def holes
+  end
+  def links
+    @links = Link.find(:all)
+  end
+  def widgets
+  end
+  def store
   end
   
   private

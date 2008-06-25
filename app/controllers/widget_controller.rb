@@ -3,6 +3,8 @@ class WidgetController < HandController
     hit
     @css = params[:css]
     calculate(:new=>true)
+    @widget = true
+    render :actiuon=>"full",:widget=>true, :layout=>false
   end
   def list
   end
